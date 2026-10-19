@@ -1,0 +1,11 @@
+node_modules
+.venv
+.pytest_cache
+__pycache__
+docs/screenshots
+tests
+pricing
+analytics
+tools
+requirements.txt
+pytest.ini
